@@ -1,0 +1,223 @@
+
+*{
+    margin: 0px;
+    padding:0px;
+}
+/*header*/
+.content-nav{
+    height: 10vh;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    border-bottom: 1px solid #dcdcdc;
+}
+.content-ul{
+    display: flex;
+}
+.list-nav-link{
+   margin-left:15px ;
+   list-style: none;
+}
+.list-nav-link a{
+    text-decoration: none;
+    color: #7e7c7c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* main*/
+.box-content-all{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height:auto;
+}
+.content-link-conversion{
+    display: block;
+    width: auto;
+}
+.first-text-content{
+    font-size: 55px;
+    max-width: 900px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.description{
+    max-width: 900px;
+    text-align: center; 
+    padding: 10px;
+    font-size: 1em;
+    line-height:2;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn{
+    text-transform: none;
+    border:none;
+    padding:20px;
+    background-image: linear-gradient(to left,cyan,blue);
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 200px;
+    color: #fff;
+    font-size: 17px;
+}
+.First-column{
+    height: auto;
+    width: 40%;
+    padding: 20px;
+}
+.second-section{
+    text-align: start;
+}
+.second-column{
+    height: auto; 
+    width: 30%;
+    padding: 20px;
+}
+.img-faturamento{
+    max-width: 470px;
+    max-height: 570px;
+}
+.box-content-third{
+    text-align: center;
+    align-items: center;
+}
+.box-content-all-icons{
+    display: flex;
+    margin: auto;
+    max-width: 1000px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.content-box-icons-complet{
+    width: 500px;
+    height: 150px;
+}
+.top-box-content-icons{
+    padding: 10px;
+}
+.img-box-icon-top{
+    width: 71px;
+    height: 71px;
+}
+.img-box-icon-bottom{
+    width: 40px;
+    height: 40px;
+}
+.img-box-icon-first{
+    width: 500px;
+    height: 500px; 
+}
+.botton-box-content-icons{
+    padding: 10px;
+}
+#second-section{
+    padding-bottom: 100px;
+}
+#third-section{
+    padding-top: 100px;
+}
+#fourth-section{
+    padding-top: 40px;
+}
+.first-content-item{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 10px;
+}
+.box-item-fourth-img{
+    max-width: 89px;
+    margin: auto;
+}
+.elemento-img-box-content{
+    margin-top: 20px;
+}
+.pfourth{
+    max-width: 800px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #5e5e5e;
+}
+#fifth-section{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.box-content-all-fifth{
+    width:100%;
+    height:auto;
+}
+.box-content-item-fifth{
+    margin: auto;
+    max-width: 940px;
+    background-image: linear-gradient(45deg, blue,cyan);
+    padding: 100px;
+    border-radius: 20px;
+}
+.box-content-first-text{
+    width: 100%;
+    text-align: center;
+}
+.fifth{
+    color: #fff;
+}
+.register{
+    padding: 20px;
+    border-radius: 8px;
+    width: 40%;
+    border:none;
+    margin-right: 5px;
+    background-color: darkblue;
+}
+.register::placeholder{
+    color: #fff;
+}
+.interaction-user{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-fifth{
+    padding: 20px;
+    border-radius: 8px;
+    width: 30%;
+    border:none;
+    margin-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.box-content-item-sixth{
+    display: flex;
+    text-align: left;
+    padding: 30px;
+    height: auto;
+}
+.box-content-all-sixth{
+    max-width: 1200px;
+    margin: auto;
+}
+.psixth{
+    text-align: left;
+    line-height: 30px;
+    font-size:14px;
+}
+.box-block-content{
+    display: flex;
+}
+.h1sixth{
+    padding-top:45px ;
+    padding-bottom:80px ;
+}

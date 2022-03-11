@@ -305,7 +305,7 @@
     flex-wrap: wrap;
     }
 }
-@media(max-width:500px){
+@media(max-width:520px){
   .img-box-icon-top{
     width: 250px;
     height: 250px;

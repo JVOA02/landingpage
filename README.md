@@ -1,5 +1,5 @@
 # landing_page
-## Utilizando HTML e CSS
+## Utilizando HTML, CSS e JavaScrip
 ### landing_page
 
 - Página web.

@@ -1,4 +1,3 @@
-
 *{
     margin: 0px;
     padding:0px;
@@ -13,17 +12,14 @@
     text-transform: capitalize;
 }
     #logo{
-    text-decoration: none;
-    position: absolute;
-    top:4%;
-    left:4%;
-    }
-    #logo{
     margin-left:15px ;
     list-style: none;
     text-decoration: none;
     color: #7e7c7c;
     font-family: Arial, Helvetica, sans-serif;
+}
+    .content-logo{
+
 }
 /*NAV*/
     .content-nav{
@@ -32,7 +28,7 @@
     justify-content: space-around;
     align-items: center;
     text-transform: capitalize;
-    font-size: 16px;
+    font-size: 14px;
     }
     .content-ul{
     display: flex;
@@ -48,6 +44,13 @@
     }
 /* main*/  /* BLOCO 1 */
     .box-content-all{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height:auto;
+    }
+    .box-content-second{
     width: 100%;
     justify-content: center;
     align-items: center;
@@ -100,6 +103,7 @@
     }
     .second-section{
     text-align: start;
+   
     }
     .second-column{
     height: auto; 
@@ -328,6 +332,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
     }
     .content-header.on nav{
     display: block;

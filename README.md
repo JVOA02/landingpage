@@ -6,7 +6,8 @@
 
 - Responsive landing_page Website usando HTML, CSS & JavaScript.
 - As cores utilizadas foram (Preto, branco e azul).
-- compatibilidade com celular, tablet e computador.
+- Compatibilidade com celular, tablet e computador.
+- Dark mode e light mode.
 
 
 ───▓▓▓█▓█──▓█────▓█──▓█─.▓▓▓█

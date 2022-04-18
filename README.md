@@ -1,7 +1,7 @@
 
-# Responsive landing_page 
-## Utilizando HTML, CSS e JavaScrip
-### Responsive landing_page
+# 💻 Responsive landing_page 💻 
+## 🖥️ Utilizando HTML, CSS e JavaScrip 🖥️
+### 📱 Responsive landing_page 📱
 
 
 - Responsive landing_page Website usando HTML, CSS & JavaScript.

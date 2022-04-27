@@ -1,6 +1,6 @@
 
 # 💻 Responsive landing_page 💻 
-## 🖥️ Utilizando HTML, CSS e JavaScrip 🖥️
+## 🖥️ Utilizando HTML, CSS e JavaScript 🖥️
 ### 📱 Responsive landing_page 📱
 
 ## SOBRE O PROJETO

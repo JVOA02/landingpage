@@ -9,9 +9,6 @@
 - Compatibilidade com celular, tablet e computador.
 - Dark mode e light mode.
 
-## PARA UTILIZAR O PROJETO, ACESSE
-➡️ https://jvoa02.github.io/landing_page/
-
 ##
 ───▓▓▓█▓█──▓█────▓█──▓█─.▓▓▓█
 ────.▓█─▓█─▓█─────▓█─▓█───.▓█
